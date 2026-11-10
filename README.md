@@ -61,4 +61,5 @@ class HabiburRahman:
 
 ## 📈 Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jbhabibur&theme=tokyo-night)](https://github.com/jbhabibur)
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
